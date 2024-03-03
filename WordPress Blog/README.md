@@ -10,7 +10,7 @@
 - Official Wordpress Image
 - Official Mysql Image
 # Steps:
--Create an docker-compose.yaml
+- Create an docker-compose.yaml
 - Compose yaml file
   - docker compose up -d
 - It will Create An Same/Ideal  Network in Bridge Netowrk  for Wordpress and Sql
