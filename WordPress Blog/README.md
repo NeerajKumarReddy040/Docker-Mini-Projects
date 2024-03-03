@@ -13,8 +13,8 @@
 - Create an docker-compose.yaml
 - Compose yaml file
   - $ docker compose up -d
-- It will Create An Same/Ideal  Network in Bridge Netowrk  for Wordpress and Sql
-- Connect to Worpress Port and the appliciton in running 
-- So that Other User can't have acces to the database
-- If you want to delete the Server
+- It will Create An Same/Ideal  Network in Bridge Network  for Wordpress and Sql
+- Connect to Worpress Port and the application in running 
+- So that, Other User can't have access to the database
+- If you want to delete/Stop the Server
    - $ docker compose down
