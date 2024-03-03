@@ -1,0 +1,10 @@
+version: '3'
+services:
+      mywordpress:
+               image: wordpress
+               ports:
+                  - 8080:80
+      mydatabase:
+               image: mysql
+               environment:
+                    MYSQL_ROOT_PASSWORD: 1234
